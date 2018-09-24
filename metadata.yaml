@@ -1,0 +1,27 @@
+_repo: Maurin-des-Maures_56393
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aicard, Jean
+    aliases:
+    - Aicard, Jean François Victor
+    - Aicard, Jean Francois Victor
+    birthdate: 1848
+    deathdate: 1921
+    gutenberg_agent_id: '6209'
+    url: http://www.gutenberg.org/2009/agents/6209
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Aicard
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2018-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56393'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Maurin des Maures
+url: http://www.gutenberg.org/ebooks/56393
