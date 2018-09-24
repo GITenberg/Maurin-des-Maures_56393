@@ -1,5 +1,8 @@
 _repo: Maurin-des-Maures_56393
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56393-h/images/cover.jpg
 creator:
   author:
     agent_name: Aicard, Jean
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6209
     wikipedia: http://en.wikipedia.org/wiki/Jean_Aicard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56393#Maurin-des-Maures
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2018-01-18'
 gutenberg_type: Text
